@@ -4,7 +4,7 @@ This tool requires Python3 to run. Install it first here: https://www.python.org
 ## macOS
 1. Install Python3 and the latest version of Firefox.
 2. Unzip `religion-autobumper.zip`
-3. Make `/religion-autobumper` your active directory via `cd religion-autobumper`
+3. Make `/religion-autobumper` your active directory via Terminal with `cd religion-autobumper`
 4. Install dependencies via `python3 -m pip install -r requirements.txt`
 5. Configure `config.py`
 6. Run the tool with `python3 main.py`
@@ -12,7 +12,7 @@ This tool requires Python3 to run. Install it first here: https://www.python.org
 ## Linux
 1. Install Python3 and the latest version of Firefox.
 2. Unzip `religion-autobumper.zip`
-3. Make `/religion-autobumper` your active directory via `cd religion-autobumper`
+3. Make `/religion-autobumper` your active directory via Terminal with `cd religion-autobumper`
 4. Install dependencies via `python3 -m pip install -r requirements.txt`
 5. Configure `config.py`
 6. Run the tool with `python3 main.py`
@@ -20,7 +20,7 @@ This tool requires Python3 to run. Install it first here: https://www.python.org
 ## Windows
 1. Install Python3 and the latest version of Firefox.
 2. Unzip `religion-autobumper.zip`
-3. Make `/religion-autobumper` your active directory via `cd religion-autobumper`
+3. Make `/religion-autobumper` your active directory via Command Line with `cd religion-autobumper`
 4. Install dependencies via `python3 -m pip install -r requirements.txt`
 5. Configure `config.py`
 6. Run the tool with `python3 main.py`
