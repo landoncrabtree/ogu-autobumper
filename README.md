@@ -9,6 +9,11 @@ This tool requires Python3 to run. Install it first here: https://www.python.org
 5. Configure `config.py`
 6. Run the tool with `python3 main.py`
 
+#### macOS Catalina and Above:
+Apple introduced a new notarization feature. You may get the message: "'mac_m1_geckodriver' executable may have wrong permissions.". To solve this, do the following:
+1. `chmod a+x <driverFile>`
+2. `xattr -r -d com.apple.quarantine <driverFile>`
+
 ## Linux
 1. Install Python3 and the latest version of Firefox.
 2. Unzip `religion-autobumper.zip`
