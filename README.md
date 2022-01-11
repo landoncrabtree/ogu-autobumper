@@ -19,11 +19,12 @@ This tool requires Python3 to run. Install it first here: https://www.python.org
 
 ## Windows
 1. Install Python3 and the latest version of Firefox.
-2. Unzip `religion-autobumper.zip`
-3. Make `/religion-autobumper` your active directory via Command Line with `cd religion-autobumper`
-4. Install dependencies via `python3 -m pip install -r requirements.txt`
-5. Configure `config.py`
-6. Run the tool with `python3 main.py`
+2. Go to -> "start" and type "Manage App Execution Aliases". Go to it and turn off "Python"
+3. Unzip `religion-autobumper.zip`
+4. Make `/religion-autobumper` your active directory via Command Line with `cd religion-autobumper`
+5. Install dependencies via `py -m pip install -r requirements.txt`
+6. Configure `config.py`
+7. Run the tool with `python3 main.py`
 
 # Configuration
 The tool is configured via the `config.py` file. 
