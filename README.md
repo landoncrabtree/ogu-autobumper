@@ -40,6 +40,15 @@ Apple introduced a new notarization feature. You may get the message: "'mac_m1_g
 7. Move `ogusers.com.cookies.json` to `religion-autobumper/cookies`
 8. Run the tool with `python3 main.py`
 
+## Detailed Ubuntu Linux VPS Setup
+1. Purchase a VPS (Such as an OVH VPS)
+2. SSH into the VPS
+3. Run `sudo apt-get install wget`
+4. Run `wget https://raw.githubusercontent.com/landoncrabtree/ogu-autobumper/main/setup.sh`
+5. Run `sudo -s`
+6. Run `chmod +x setup.sh`
+7. Run `./setup.sh <link provided upon purchase`
+
 # Configuration
 The tool is configured via the `config.py` file. 
 
